@@ -1,0 +1,26 @@
+#center-box {
+	background-color: #555;
+	color: white;
+	font-size: larger;
+	text-align: center;
+	margin-top: 40vh;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+button {
+	background-color: transparent;
+	border: 5px solid #555;
+	border-radius: 100px;
+	font-size: medium;
+	color: #555;
+	box-shadow: 2px 2px;
+	margin-top: 5vh;
+	margin-left: 46vw;
+}
+
+#color {
+	color: lightblue;
+}
